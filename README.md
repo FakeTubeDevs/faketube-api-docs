@@ -1,2 +1,2 @@
-# FakeTubeDocs
-Dokumentace pro projekt FakeTube
+# FakeTube Docs
+
