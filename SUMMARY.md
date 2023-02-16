@@ -1,4 +1,5 @@
 # Table of contents
 
-* [FakeTube Docs](README.md)
-* [Úvod](<README (1).md>)
+* [Úvod](README.md)
+* [Protokol změn](protokol-zmen.md)
+* [Reference](reference.md)
