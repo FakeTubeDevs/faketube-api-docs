@@ -2,8 +2,6 @@
 layout: landing
 ---
 
-# Untitled
-
 ## Oficiální FakeTube API dokumentace
 
 Tento GitHub repozitář obsahuje oficiální dokumentaci k FakeTube API, kterou naleznete online také ZDE.
