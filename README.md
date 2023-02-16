@@ -1,26 +1,35 @@
 ---
-description: Úvod do naší dokumentace
 layout: landing
 ---
 
-# Úvod
+# Untitled
 
-Našli jste dokumentaci pro vývojáře projektu FakeTube! Tyto stránky jsou určeny k tomu, aby vám ukázaly všechny způsoby, jak můžete použít FakeTube k vytváření skvělých věcí. Ať už chcete posílit své aplikace pomocí našeho API nebo nás zapojit přímo do vašeho projektu, FakeTube má něco pro vás.
+## Oficiální FakeTube API dokumentace
 
-Veškerou naši dokumentaci najdete také na [GitHubu](https://github.com/FakeTubeDevs/faketube-api-docs).
+Tento GitHub repozitář obsahuje oficiální dokumentaci k FakeTube API, kterou naleznete online také ZDE.
 
-## Chyby
+### Syntaxe Markdown
 
-Pokud se domníváte, že jsme udělali chybu v rozhraní API nebo chcete nahlásit nesprávnou dokumentaci, ozvěte se nám přes [nástroj pro nahlašování problémů](https://github.com/FakeTubeDevs/faketube-api-docs/issues).
+Tento repozitář využívá speciální syntaxi markdown, která pomáhá stylizovat výslednou webovou verzi dokumentace.
 
-## Roboti a aplikace
+#### Nadpisy H6
 
-Roboti a aplikace jsou _kořením_ naší komunity. Rádi vidíme jedinečné a zábavné výtvory, které pocházejí z naší komunity.
+Nadpisy H6 by měly být použity nad tabulkami a bloky kódu, aby byly správně označeny.
 
-FakeTube nabízí otevřené API pro obsluhu požadavků na integraci robotů a aplikací. Takže ať už vytváříte např. vlastního Discord robota nebo jinou aplikaci, máme pro vás vše.
+#### Odkazování
 
-Tak hurá do toho! Nebojte se vytvořit něco úžasného.
+Odkazy mezi dokumenty lze vytvořit pomocí symbolu _hash_ (#) - tedy tzv. _kotvy_. Chcete-li například odkazovat na výše uvedenou sekci nadpisů H6:
 
-## Stále potřebujete pomoc?
+```md
+[Links to README.md H6](README.md#nadpisy-h6)
+```
 
-Připojte se k našemu [oficiálnímu Discord serveru](https://discord.gg/k46F443VZJ) (nejen) pro podporu a diskusi týkající se rozhraní API od FakeTube.
+### Potřebujete pomoct?
+
+Zde jsou některé odkazy, které vám mohou pomoci se vším se vším souvisejícím s FakeTube API:
+
+Na [oficiálním Discord serveru](https://discord.gg/k46F443VZJ) naleznete pár kanálů nápovědy se znalými lidmi a vývojáři FakeTube, kteří vám pomohou s něčím, co potřebujete, a získáte aktualizace přímo od vývojářů.
+
+### Licence
+
+Pokud není uvedeno jinak, dokumentace FakeTube API a další obsah v tomto úložišti je licencován pod licencí Creative Commons Attribution-ShareAlike 4.0 (viz LICENSE) a ukázky kódu v tomto úložišti jsou licencovány pod licencí MIT (viz LICENSE-CODE). Další informace o používání funkcí FakeTube API naleznete ve smluvních podmínkách pro vývojáře FakeTube.
