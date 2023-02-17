@@ -26,4 +26,4 @@ Na [oficiálním Discord serveru](https://discord.gg/k46F443VZJ) naleznete pár 
 
 ### Licence
 
-Pokud není uvedeno jinak, dokumentace FakeTube API a další obsah v tomto úložišti je licencován pod licencí Creative Commons Attribution-ShareAlike 4.0 (viz LICENSE) a ukázky kódu v tomto úložišti jsou licencovány pod licencí MIT (viz LICENSE-CODE). Další informace o používání funkcí FakeTube API naleznete ve smluvních podmínkách pro vývojáře FakeTube.
+Pokud není uvedeno jinak, dokumentace FakeTube API a další obsah v tomto úložišti je licencován pod licencí Creative Commons Attribution-ShareAlike 4.0 (viz [LICENSE](LICENSE)) a ukázky kódu v tomto úložišti jsou licencovány pod licencí MIT (viz [LICENSE-CODE](LICENSE-CODE)). Další informace o používání funkcí FakeTube API naleznete ve smluvních podmínkách pro vývojáře FakeTube.
