@@ -1,7 +1,6 @@
 {
-  "swagger": "2.0",
+  "openapi": "3.0.1",
   "info": {
-    "version": "1.0.0",
     "title": "FakeTube API",
     "description": "FakeTube API",
     "contact": {
@@ -10,17 +9,14 @@
     },
     "license": {
       "name": "MIT"
-    }
+    },
+    "version": "1.0.0"
   },
-  "host": "api.faketube.cz",
-  "basePath": "/api",
-  "schemes": [
-    "https"
+  "servers": [
+    {
+      "url": "https://api.faketube.cz/api"
+    }
   ],
-  "consumes": [
-    "application/json"
-  ],
-  "produces": [
-    "application/json"
-  ]
+  "paths": {},
+  "components": {}
 }
