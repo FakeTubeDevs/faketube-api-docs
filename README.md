@@ -1,7 +1,3 @@
----
-layout: landing
----
-
 ## Oficiální FakeTube API dokumentace
 
 Tento GitHub repozitář obsahuje oficiální dokumentaci k FakeTube API, kterou naleznete online také ZDE.
@@ -19,7 +15,7 @@ Nadpisy H6 by měly být použity nad tabulkami a bloky kódu, aby byly správn�
 Odkazy mezi dokumenty lze vytvořit pomocí symbolu _hash_ (#) - tedy tzv. _kotvy_. Chcete-li například odkazovat na výše uvedenou sekci nadpisů H6:
 
 ```md
-[Links to README.md H6](README.md#nadpisy-h6)
+[Odkaz na README.md H6](README.md#nadpisy-h6)
 ```
 
 ### Potřebujete pomoct?
