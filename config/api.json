@@ -1,1 +1,27 @@
 
+{
+  "swagger": "2.0",
+  "info": {
+    "version": "1.0.0",
+    "title": "FakeTube API",
+    "description": "FakeTube API",
+    "contact": {
+      "name": "FakeTubeDevs",
+      "email": "faketube@faketube.cz"
+    },
+    "license": {
+      "name": "MIT"
+    }
+  },
+  "host": "api.faketube.cz",
+  "basePath": "/api",
+  "schemes": [
+    "https"
+  ],
+  "consumes": [
+    "application/json"
+  ],
+  "produces": [
+    "application/json"
+  ],
+}
