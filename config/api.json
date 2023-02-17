@@ -1,4 +1,3 @@
-
 {
   "swagger": "2.0",
   "info": {
@@ -23,5 +22,5 @@
   ],
   "produces": [
     "application/json"
-  ],
+  ]
 }
