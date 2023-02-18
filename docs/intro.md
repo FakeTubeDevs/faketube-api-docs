@@ -1,9 +1,5 @@
 # Introduction
 
-```html
-<h1>ahoj</h1>
-```
-
 You’ve found the Discord Developer Documentation! These pages are dedicated to showing you all the ways that you can use Discord to make cool stuff. Whether you’re looking to create awesome bots for your community, empower your applications with our API, or hook us right into your game with Rich Presence or the GameSDK, Discord has something for you.
 
 All of our [documentation is on GitHub](https://github.com/discord/discord-api-docs) and we <3 corrections and improvements!
